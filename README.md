@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**jfranciscoconexiondigital/jfranciscoconexiondigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Header](https://storage.googleapis.com/conexiondigital_general_assets/img/developer-bg1.jpeg "Header")](https://github.com/jfranciscoconexiondigital)
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="https://www.linkedin.com/in/gpjfrancisco/" target="blank" style="margin: 0 20px;">
+      <img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="Linkedin - Juan Francisco González Pedroza" height="28px" width="28px" />
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👉 Sobre mí
+I am  **Web/Mobile Developer** I like to analyze the data and get insight to improve the client strategies. 
+
+#### 📝 Contacto:
+- [Mail: jfrancisco@conexiondigital.mx](mailto:jfrancisco@conexiondigital.x)
+- [Linkedin: gpjfrancisco](https://www.linkedin.com/in/gpjfrancisco/)
