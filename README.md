@@ -9,7 +9,10 @@
 
 
 ## 👉 Sobre mí
- **Mobile Developer** Dios creó los números. El hombre, todo lo demás.
+ **Mobile Developer** 
+ "Controlar la complejidad es la esencia de la programación"
+-- Brian Kernigan
+ 
 
 #### 📝 Contacto:
 - [Mail: jfrancisco@conexiondigital.mx](mailto:jfrancisco@conexiondigital.x)
