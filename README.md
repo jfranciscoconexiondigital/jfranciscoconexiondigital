@@ -9,7 +9,7 @@
 
 
 ## 👉 Sobre mí
-I am  **Web/Mobile Developer** I like to analyze the data and get insight to improve the client strategies. 
+ **Mobile Developer** Dios creó los números. El hombre, todo lo demás.
 
 #### 📝 Contacto:
 - [Mail: jfrancisco@conexiondigital.mx](mailto:jfrancisco@conexiondigital.x)
